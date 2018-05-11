@@ -80,10 +80,24 @@ body {
 
 h1 {
     font-family: Georgia, Times, Times New Roman, serif;
+    color: #4aaaa5;
     padding: 0.5em;
 }
 
 img {
     margin: 10px;
     float: left;
+}
+
+form {
+    padding: 2em;
+}
+
+input {
+    width: 100%;
+}
+
+#message {
+    width: 100%;
+    height: 200px;
 }
