@@ -82,6 +82,10 @@ input {
     background-color: #4aaaa5; 
 }
 
+.submit:hover {
+    background-color: darkorchid;
+}
+
 /* SPECIFY ID CLASSES HERE */
 
 #header { 
