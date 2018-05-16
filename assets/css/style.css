@@ -115,6 +115,10 @@ input {
     text-decoration: none;    
 }
 
+#navlink a:hover {
+    color: red;
+}
+
 #bio-background {
     
     background-image: url("../images/paper.png");
